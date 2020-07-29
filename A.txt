@@ -1,5 +1,6 @@
 这是A文档
 
+新增操作 ： master 1
 
 这是来自feature的提交1
 a
