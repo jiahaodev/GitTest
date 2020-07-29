@@ -1,3 +1,6 @@
 这是B文档，Feature
 这是官方的一段提交【Feature】
 文件B
+
+feature
+拓张B文件内容
